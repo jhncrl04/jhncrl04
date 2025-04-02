@@ -2,8 +2,6 @@
 - 👀 I’m interested in problem solving and programming in general
 - 🌱 I’m currently learning Fullstack development
 - 📫 How to reach me, you can reach my via email @ jcarlo.servidad.dev@gmail.com
-- 😄 Pronounsm He/Him
-- ⚡ Fun fact: 
 
 <!---
 jhncrl04/jhncrl04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
